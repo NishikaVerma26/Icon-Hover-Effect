@@ -24,7 +24,6 @@ body {
     overflow: hidden;
     text-decoration: none;
 }
-
 .icon::before,
 .icon::after {
     content: "";
@@ -36,7 +35,6 @@ body {
     transition: all 0.50s ease;
     border-radius: 30px;
 }
-
 .icon i {
     position: relative;
     color: #FFFFFF;
